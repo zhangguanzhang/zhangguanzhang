@@ -1,5 +1,3 @@
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Hangzhou, China
 - 🌱 I’m currently learning golang,jenkins
 - 💬 Ask me about :Centos,ansible,shell,regex,sed,awk,grep,go,docker,kubernetes
