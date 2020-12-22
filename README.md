@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Hangzhou, China
+- 🔭 I’m currently working on WuHan, China
 - 🌱 I’m currently learning golang,jenkins
 - 💬 Ask me about :Centos,ansible,shell,regex,sed,awk,grep,go,docker,kubernetes
 - 📫 How to reach me: zhangguanzhang@qq.com or at my [blog](https://zhangguanzhang.github.io)
